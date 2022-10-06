@@ -1,4 +1,4 @@
-# RRCMS (Running Room Crew Management System) for IRCTC Locopilots 
+# RRCMS (Running Room Crew Management System) for Indian Railways Locopilots Room and Meal Allotment
 
 Detailed description here: https://abhishekgautam101.github.io/rrcms/
 
